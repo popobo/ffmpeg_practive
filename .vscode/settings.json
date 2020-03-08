@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "sdl.h": "c",
+        "random": "c",
+        "avcodec.h": "c"
+    }
+}
